@@ -17,3 +17,13 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+## What I learned
+
+- Fetching data from an API and converting the response from JSON into JavaScript objects.
+- Using promises with `.then()` to handle asynchronous requests and update the page when data arrives.
+- Storing posts in an array, selecting the first five with `slice()`, and adding new posts to the beginning with `unshift()`.
+- Rendering a list dynamically with template literals and `innerHTML`.
+- Handling form submissions with an event listener and `preventDefault()` to avoid reloading the page.
+- Sending a POST request with `fetch()`, including a JSON body and a `Content-Type` header.
+- Reading and clearing form inputs after a successful response.
+- Using basic CSS layout techniques, including grid, flexbox, and a fixed navigation bar.
